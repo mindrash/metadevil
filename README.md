@@ -3,7 +3,7 @@ Discovering interesting utility, patterns, and representations of metadata.
 
 ## hexaDomain nft
 Given x number of domain names and their attributes, visual each in a pleasing way. This may illict several thoughts and questions including:
-- While this information is public domain it feels ... unusual to represent as an individual nft
+- While this information is public domain it feels ... unusual to represent as an individual nft. I like that it feels unusual and this makes the dataset a candidate for metadevil.
 - Will some domains seem more worthwhile to own?
 - Will categories of domains be more prized and others shunned?
 - Some may have very different reasons for wanting or liking each. Maybe one is a top teir traffic domain, another is you place of work, your favorite hobby, or just weird...
