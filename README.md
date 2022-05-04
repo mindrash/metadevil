@@ -130,3 +130,8 @@ Example
 
 ## final analysis
 Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
+
+Very exciting - first mint of token 1.
+[d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/1/)
+
+More to come as they are minted!
