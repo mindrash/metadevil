@@ -2,7 +2,7 @@
 Discovering interesting utility, patterns, and representations of metadata.
 
 ## hexadomain
-This project is a combination of the mining of metadata from domains with automated visualization. Each piece is contrived from a screenshot of a domain name and influenced by the metadata from the HTTP response at that location. It is wonderful to see the beauty or weirdness of one next to the stoicism of the next knowing that underneath is a domain name that provided the canvas and influenced the direction of the attributes.
+This project is a combination of the mining of metadata from domain names with automated visualization. Each piece is contrived from a screenshot of a randomly chosen domain name (reveal in attributes) and influenced by the metadata from the HTTP response at that location. It is wonderful to see the beauty or weirdness of one next to the stoicism of another knowing that underneath is a domain name that provided the canvas and influenced the direction of the attributes. The name of each piece is the domain base64 encoded - you can decode if you are so inclined or directly reveal on the attributes.
 
 - Will some pieces influenced by certain domains seem more worthwhile?
 - Will categories of domains be more appreciated while and others are shunned?
@@ -62,6 +62,7 @@ root - INFO - Processed: 1
 ...
 
 ```
+I spoke too soon ... there were many that could not produce because of "blank" screenshots with not enough pixel data. Two batches came together to form the final 10,000. In all I believe this took about 36 hours... 
 
 ## attributes
 | attribute_name       | description                                                               |
@@ -132,6 +133,8 @@ Example
 Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
 
 Very exciting - first mint of token 1.
-[d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/1/)
+[d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/1)
 
-More to come as they are minted!
+Very exciting - last mint of token 10,000.
+[d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/10000)
+
