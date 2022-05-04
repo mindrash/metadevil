@@ -66,12 +66,12 @@ root - INFO - Processed: 1
 ## attributes
 | attribute_name       | description                                                               |
 |----------------------|---------------------------------------------------------------------------|
-| domain               | 49,991 apex domains randomly selected from the superset of domains
+| domain               | 49,991 apex domains randomly selected from the superset of domains |
 | cookies              | The number of cookies found on the HTTP response. Influences number of chars and if > 10 adds extra line |
 | response_total_bytes | The total bytes of the response. Influences line number and width         |
-| ellipse_count        | 5 total possible. likelihood of 4: 10% 5: 1%
-| freak_ellipse_count  | 33% chance (a grid of colored circles randomly influenced by palette)
-| chars_number         | a unicode unknown char influenced by cookie count 
+| ellipse_count        | 5 total possible. likelihood of 4: 10% 5: 1% |
+| freak_ellipse_count  | 33% chance (a grid of colored circles randomly influenced by palette) |
+| chars_number         | a unicode unknown char influenced by cookie count |
 
 Example
 ```json
