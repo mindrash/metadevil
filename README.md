@@ -1,8 +1,6 @@
 # metadevil.io
 Discovering interesting utility, patterns, and representations of metadata.
 
-<iframe src="https://discord.com/widget?id=425716262107217923&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 ## hexadomain
 This project is a combination of the mining of metadata from domain names with automated visualization. Each piece is contrived from a screenshot of a randomly chosen domain name (reveal in attributes) and influenced by the metadata from the HTTP response at that location. It is wonderful to see the beauty or weirdness of one next to the stoicism of another knowing that underneath is a domain name that provided the canvas and influenced the direction of the attributes. The name of each piece is the domain base64 encoded - you can decode if you are so inclined or directly reveal on the attributes.
 
