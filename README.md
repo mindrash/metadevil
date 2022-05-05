@@ -20,7 +20,7 @@ Example: this is a test piece only. The problem is that they can look very diffe
 ![metadevil](./docs/4c6874e7-ed4d-4834-a464-7561bad33cff.png)
 
 ## the process
-From a superset of dot com domain names, metadevil randomly parsed out 49,991 apex domains (also incuding www) that returned a 200 - 400 HTTP status code in the response. Hopefully there is good international variety across the set. Next, metadevil retrieved screenshots of 17,286 of these domains limited by the request timeout (metadevil doesn't have all day). With each screenshot metadevil modifies the image layering in elements and other attributes influenced by the metadata of the screenshot and from the HTTP response content including total number of cookies and total bytes recieved. See the attribute table below for more information about how the elements are influenced by the domain and their randomness.
+From a superset of dot com domain names, metadevil randomly parsed out 49,991 apex domains (also incuding www) that returned a 200 - 400 HTTP status code in the response. Hopefully there is good international variety across the set. Next, metadevil retrieved a glipse of 17,286 of these domains limited by the request timeout (metadevil doesn't have all day). With each glipse metadevil modifies the image layering in elements and other attributes influenced by the metadata of the glipse and from the HTTP response content including total number of cookies and total bytes recieved. See the attribute table below for more information about how the elements are influenced by the domain and their randomness.
 
 ### select domains
 Selecting the domains took ~8 hours and 26 minutes to randomly find 49,991 domains for the base set. There will be error conditions in producing the final 10,000, so we need a larger amount to account for these.
@@ -37,8 +37,8 @@ root - INFO - ******************************************************************
 root - INFO - Finished: 2022-04-25 14:29:31.595396
 ```
 
-### get domain screenshots
-Screenshots took ~12 hours and 33 minutes
+### get domain glipse
+glipses took ~12 hours and 33 minutes
 ```
 root - INFO - ********************************************************************************
 root - INFO - Starting: 2022-04-25 15:35:37.184921
@@ -57,12 +57,12 @@ The pieces generate at about 8/min taking over 22 hours to generate 10,000 final
 ```
 root - INFO - ********************************************************************************
 root - INFO - Starting: 2022-04-26 09:28:35.330703
-root - INFO - data_elements[]: /projects/metadevil/metadevil-screenshots/d3d3LnZhbGRlem11bm96bGFuZHNjYXBpbmcuY29t.csv
+root - INFO - data_elements[]: /projects/metadevil/metadevil-glimpse/d3d3LnZhbGRlem11bm96bGFuZHNjYXBpbmcuY29t.csv
 root - INFO - Processed: 1
 ...
 
 ```
-I spoke too soon ... there were many that could not produce because of "blank" screenshots with not enough pixel data. Two batches came together to form the final 10,000. In all I believe this took about 36 hours... 
+I spoke too soon ... there were many that could not produce because of "blank" views with not enough pixel data. Two batches came together to form the final 10,000. In all I believe this took about 36 hours... 
 
 ## attributes
 
