@@ -65,6 +65,7 @@ root - INFO - Processed: 1
 I spoke too soon ... there were many that could not produce because of "blank" screenshots with not enough pixel data. Two batches came together to form the final 10,000. In all I believe this took about 36 hours... 
 
 ## attributes
+
 | attribute_name       | description                                                               |
 |----------------------|---------------------------------------------------------------------------|
 | domain               | 49,991 apex domains randomly selected from the superset of domains |
