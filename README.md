@@ -16,7 +16,7 @@ This project is a combination of the mining of metadata combined with automated 
 
 It was decided to base64 encode the domain as the title of each piece. You can decode if you are so inclined or directly view on the nft attributes.
 
-Example: this is a test piece only. The problem is that they can look very different from each other. So, check them all out.
+Examples:
 ![metadevil](./docs/examples.png)
 
 ## the process
