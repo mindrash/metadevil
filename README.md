@@ -17,7 +17,7 @@ This project is a combination of the mining of metadata combined with automated 
 It was decided to base64 encode the domain as the title of each piece. You can decode if you are so inclined or directly view on the nft attributes.
 
 Example: this is a test piece only. The problem is that they can look very different from each other. So, check them all out.
-![metadevil](./docs/4c6874e7-ed4d-4834-a464-7561bad33cff.png)
+![metadevil](./docs/examples.png)
 
 ## the process
 From a superset of dot com domain names, metadevil randomly parsed out 49,991 apex domains (also incuding www) that returned a 200 - 400 HTTP status code in the response. Hopefully there is good international variety across the set. Next, metadevil retrieved a glipse of 17,286 of these domains limited by the request timeout (metadevil doesn't have all day). With each glipse metadevil modifies the image layering in elements and other attributes influenced by the metadata of the glipse and from the HTTP response content including total number of cookies and total bytes recieved. See the attribute table below for more information about how the elements are influenced by the domain and their randomness.
@@ -133,9 +133,14 @@ Example
 ## final analysis
 Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
 
+Example: this is a test piece only. The problem is that they can look very different from each other. So, check them all out.
+![metadevil](./docs/4c6874e7-ed4d-4834-a464-7561bad33cff.png)
+
 Very exciting - first mint of token 1.
 [d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/1)
 
 Very exciting - last mint of token 10,000.
 [d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/10000)
+
+and delisted from opensea ....
 
