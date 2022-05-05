@@ -2,7 +2,7 @@
 Discovering interesting utility, patterns, and representations of metadata.
 
 ## hexadomain
-This project is a combination of the mining of metadata combined with automated visualization. Each piece is contrived from only a vague understanding of a randomly chosen domain name and influenced by the metadata of that glipse. It's like looking at a beuitful creek to paint a picture or conversely the rotting corpse of roadkill. It is wonderful to see the beauty or weirdness of one next to the stoicism of another knowing that underneath is a domain name that provided the canvas and influenced the direction of the attributes. The name of each piece is the domain base64 encoded - you can decode if you are so inclined or directly reveal on the attributes.
+This project is a combination of the mining of metadata combined with automated visualization. Each piece is contrived from only a vague understanding of a randomly chosen domain name and influenced by the metadata of that glimpse. It's like looking at a beautiful creek to paint a picture or conversely the rotting corpse of roadkill. It is wonderful to see the beauty or weirdness of one next to the stoicism of another knowing that underneath is a domain name that provided the canvas and influenced the direction of the attributes. The name of each piece is the domain base64 encoded - you can decode if you are so inclined or directly reveal on the attributes.
 
 - Will some pieces influenced by certain domains seem more worthwhile?
 - Will categories of domains be more appreciated while and others are shunned?
