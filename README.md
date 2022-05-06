@@ -158,7 +158,7 @@ Once officially minted, some will be selected and analayzed to describe how meta
 <br clear="all"/>
 <br clear="all"/>
 
-***
+---
 
 ### name: YnVydW5pc3RhbmJ1bC5jb20=
 <p>
@@ -168,7 +168,7 @@ Once officially minted, some will be selected and analayzed to describe how meta
 <br clear="all"/>
 <br clear="all"/>
 
-***
+---
 
 ### name: d3d3LmVraW5oZG9hbmguY29t
 <p>
@@ -178,7 +178,7 @@ Once officially minted, some will be selected and analayzed to describe how meta
 <br clear="all"/>
 <br clear="all"/>
 
-***
+---
 
 ### name: c3dpbXdlaWdodHMuY29t
 <p>
