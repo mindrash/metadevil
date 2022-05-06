@@ -155,7 +155,7 @@ Example meta.json generated
 ---
 
 <p>
-    <img style="width:400px;padding:35%;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png" alt="d29ya3Byb3RvY29scy5jb20=" align="right"/>
+    <img style="width:35%;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png" alt="d29ya3Byb3RvY29scy5jb20=" align="right"/>
     This is a lovely red palette from the domain. This one comes with 15 cookies and 139342 bytes to influence the design. 
     This means 3 lines, 2 ellipses, 0 freek ellipse, and 75 characters added. The characters can be seen faintly in the organge, yellow fading out area. The lines worked well in this one bringing down a darker element from top to bottom worrking with the 3 dark blocks in the top row. Love this one.
 </p>
