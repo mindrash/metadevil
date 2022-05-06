@@ -149,6 +149,8 @@ Example meta.json generated
 ## final analysis
 Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
 
+---
+
 ### name: d29ya3Byb3RvY29scy5jb20=
 <p>
     <img style="width:500px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png" alt="d29ya3Byb3RvY29scy5jb20=" align="right"/>
