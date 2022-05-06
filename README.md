@@ -149,9 +149,23 @@ Example meta.json generated
 ## final analysis
 Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
 
+### d29ya3Byb3RvY29scy5jb20=
 <p>
-    <img style="width:500px;float:right;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png" alt="d29ya3Byb3RvY29scy5jb20=" align="right"/>
-    This is a lovely red palette from the domain.
+    <img style="width:500px;float:right;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png" alt="d29ya3Byb3RvY29scy5jb20="/>
+    This is a lovely red palette from the domain. This one comes with 15 cookies and 139342 bytes to influence the design. 
+    This means 3 lines, 2 ellipses, 0 freek ellipse, and 75 characters added. The characters can be seen faintly in the organge, yellow fadding out area. The lines worked well in this one bringing down a darker element from top to bottom worrking with the 3 dark blocks in the top row. Love this one.
+<p>
+
+### d3d3LmVraW5oZG9hbmguY29t
+<p>
+    <img style="width:500px;float:right;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVwqDrsZUUMpoaPRUMv2eZRMMQ6yN5rr7Y5BCEFY868v6/720.png" alt="d3d3LmVraW5oZG9hbmguY29t"/>
+    Another example of how different they can be and still so relatable. Influeced by 0 cookies and 15326 bytes this one ends up with 5 lines, 2 elipses, and 0 characters.
+<p>
+
+### c3dpbXdlaWdodHMuY29t
+<p>
+    <img style="width:500px;float:right;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmUxkqmHAWpL8ywNfKZfQtgfziz4JxvxVhcXGe1Vkc2mpW/720.png" alt="c3dpbXdlaWdodHMuY29t"/>
+    This is one came out with the freak ellipse which are the rows of ellipses. In this case it looks to have recieved the standard color key for these. Some with the freak ellipse will have a color key pulled from the foundational color palette. The ellipses here come together has a nice eyeball which is why I sometimes refer to it as the eye because there isn't a better name for it.
 <p>
 
 
