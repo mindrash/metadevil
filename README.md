@@ -18,6 +18,11 @@ This project is a combination of the mining of metadata combined with automated 
 
 It was decided to base64 encode the domain as the title of each piece. You can decode if you are so inclined or directly view on the nft attributes.
 
+## listed on
+- [Rarible](https://rarible.com/metadevil-io/items)
+- [Element](https://www.element.market/collections/metadevil-io)
+- [tofuNFT](https://tofunft.com/nft/polygon/0x752CD43b36171A5C49fdBDF74574C6EdfF439e81/7)
+
 Examples: see below for some walk throughs on my thoughts on why some rendered the way they did
 ![metadevil](./docs/examples.png)
 
@@ -142,11 +147,8 @@ Example meta.json generated
 ## final analysis
 Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
 
-Example: this is a test piece only. The problem is that they can look very different from each other. So, check them all out.
-![metadevil](./docs/4c6874e7-ed4d-4834-a464-7561bad33cff.png)
 
-[d29ya3Byb3RvY29scy5jb20=](https://rarible.com/token/polygon/0x752cd43b36171a5c49fdbdf74574c6edff439e81:9996)
+![d29ya3Byb3RvY29scy5jb20=](https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png)
 
-[bXlydGxlYmVhY2hzaWduYXR1cmVnb2xmLmNvbQ==](https://rarible.com/token/polygon/0x752cd43b36171a5c49fdbdf74574c6edff439e81:9869)
 
 
