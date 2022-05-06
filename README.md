@@ -147,7 +147,7 @@ Example meta.json generated
 - Polygon - wanted to go side chain for cost considerations, but not sold that this was the best idea
 
 ## final analysis
-10,000 total peices were minted. I'm really proud of the result and really hope someone takes the time to enjoy not just one piece, but the set as they sit next to each other with their differences and similarities.
+10,000 total peices were minted. I'm really proud of the result and really hope someone takes the time to enjoy not just one piece, but the set as they sit next to each other with their differences and similarities. Below are some examples with a bit of a walk through on each. There is a lot more randomness and complexity going into each, but if you want you can take time to review the code here on github.
 
 ### name: d29ya3Byb3RvY29scy5jb20=
 
