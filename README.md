@@ -158,6 +158,8 @@ Once officially minted, some will be selected and analayzed to describe how meta
 <br clear="all"/>
 <br clear="all"/>
 
+***
+
 ### name: YnVydW5pc3RhbmJ1bC5jb20=
 <p>
     <img style="width:500px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQma2UWBiia9u8qVPPrtuXAhPe6XymV7i4tEgJw2MfNYDwc/720.png" alt="YnVydW5pc3RhbmJ1bC5jb20=" align="right"/>
@@ -166,6 +168,8 @@ Once officially minted, some will be selected and analayzed to describe how meta
 <br clear="all"/>
 <br clear="all"/>
 
+***
+
 ### name: d3d3LmVraW5oZG9hbmguY29t
 <p>
     <img style="width:500px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVwqDrsZUUMpoaPRUMv2eZRMMQ6yN5rr7Y5BCEFY868v6/720.png" alt="d3d3LmVraW5oZG9hbmguY29t" align="right"/>
@@ -173,6 +177,8 @@ Once officially minted, some will be selected and analayzed to describe how meta
 <p>
 <br clear="all"/>
 <br clear="all"/>
+
+***
 
 ### name: c3dpbXdlaWdodHMuY29t
 <p>
