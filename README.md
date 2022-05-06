@@ -147,7 +147,7 @@ Example meta.json generated
 - Polygon - wanted to go side chain for cost considerations, but not sold that this was the best idea
 
 ## final analysis
-Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
+10,000 total peices were minted. I'm really proud of the result and really hope someone takes the time to enjoy not just one piece, but the set as they sit next to each other with their differences and similarities.
 
 ### name: d29ya3Byb3RvY29scy5jb20=
 
