@@ -167,7 +167,7 @@ Example meta.json generated
 ---
 
 <p>
-    <img style="width:400px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQma2UWBiia9u8qVPPrtuXAhPe6XymV7i4tEgJw2MfNYDwc/720.png" alt="YnVydW5pc3RhbmJ1bC5jb20=" align="right"/>
+    <img style="width:35%;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQma2UWBiia9u8qVPPrtuXAhPe6XymV7i4tEgJw2MfNYDwc/720.png" alt="YnVydW5pc3RhbmJ1bC5jb20=" align="right"/>
     This one contracts with the one aboe so well and a huge reason why I love this project. They can be so different, but all still cohesive as a set. This one was influenced by 0 cookies and 174 bytes which means there wasn't much there to speak of. It ended up with 7 lines, 2 ellipses, 0 freak ellipse, and 0 characters added.
 </p>
 <br clear="all"/>
@@ -178,7 +178,7 @@ Example meta.json generated
 ---
 
 <p>
-    <img style="width:400px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVwqDrsZUUMpoaPRUMv2eZRMMQ6yN5rr7Y5BCEFY868v6/720.png" alt="d3d3LmVraW5oZG9hbmguY29t" align="right"/>
+    <img style="width:35%;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVwqDrsZUUMpoaPRUMv2eZRMMQ6yN5rr7Y5BCEFY868v6/720.png" alt="d3d3LmVraW5oZG9hbmguY29t" align="right"/>
     Another example of how different they can be and still so relatable. Influeced by 0 cookies and 15326 bytes this one ends up with 5 lines, 2 ellipses, and 0 characters.
 </p>
 <br clear="all"/>
