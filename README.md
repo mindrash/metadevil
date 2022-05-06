@@ -136,11 +136,8 @@ Once officially minted, some will be selected and analayzed to describe how meta
 Example: this is a test piece only. The problem is that they can look very different from each other. So, check them all out.
 ![metadevil](./docs/4c6874e7-ed4d-4834-a464-7561bad33cff.png)
 
-Very exciting - first mint of token 1.
-[d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/1)
+[d29ya3Byb3RvY29scy5jb20=](https://rarible.com/token/polygon/0x752cd43b36171a5c49fdbdf74574c6edff439e81:9996)
 
-Very exciting - last mint of token 10,000.
-[d3d3Lmtvbmpha3UtcGhvdG8uY29t](https://opensea.io/assets/matic/0x07e7adc011a7a7210cb205ee4108df3c3f2d163d/10000)
+[bXlydGxlYmVhY2hzaWduYXR1cmVnb2xmLmNvbQ==](https://rarible.com/token/polygon/0x752cd43b36171a5c49fdbdf74574c6edff439e81:9869)
 
-and delisted from opensea ....
 
