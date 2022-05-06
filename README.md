@@ -151,7 +151,7 @@ Once officially minted, some will be selected and analayzed to describe how meta
 
 ### name: d29ya3Byb3RvY29scy5jb20=
 <p>
-    <img style="width:500px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png" alt="d29ya3Byb3RvY29scy5jb20=" align="right"/>
+    <img style="width:500px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVQhu4q56e5FDB5KcpuFBv4NwTT9dkEXDoCYuoiwoQZtn/720.png" alt="d29ya3Byb3RvY29scy5jb20=" align="right"/>
     This is a lovely red palette from the domain. This one comes with 15 cookies and 139342 bytes to influence the design. 
     This means 3 lines, 2 ellipses, 0 freek ellipse, and 75 characters added. The characters can be seen faintly in the organge, yellow fading out area. The lines worked well in this one bringing down a darker element from top to bottom worrking with the 3 dark blocks in the top row. Love this one.
 <p>
@@ -162,7 +162,7 @@ Once officially minted, some will be selected and analayzed to describe how meta
 
 ### name: YnVydW5pc3RhbmJ1bC5jb20=
 <p>
-    <img style="width:500px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQma2UWBiia9u8qVPPrtuXAhPe6XymV7i4tEgJw2MfNYDwc/720.png" alt="YnVydW5pc3RhbmJ1bC5jb20=" align="right"/>
+    <img style="width:500px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQma2UWBiia9u8qVPPrtuXAhPe6XymV7i4tEgJw2MfNYDwc/720.png" alt="YnVydW5pc3RhbmJ1bC5jb20=" align="right"/>
     This one contracts with the one aboe so well and a huge reason why I love this project. They can be so different, but all still cohesive as a set. This one was influenced by 0 cookies and 174 bytes which means there wasn't much there to speak of. It ended up with 7 lines, 2 ellipses, 0 freak ellipse, and 0 characters added.
 <p>
 <br clear="all"/>
@@ -172,7 +172,7 @@ Once officially minted, some will be selected and analayzed to describe how meta
 
 ### name: d3d3LmVraW5oZG9hbmguY29t
 <p>
-    <img style="width:500px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVwqDrsZUUMpoaPRUMv2eZRMMQ6yN5rr7Y5BCEFY868v6/720.png" alt="d3d3LmVraW5oZG9hbmguY29t" align="right"/>
+    <img style="width:500px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmVwqDrsZUUMpoaPRUMv2eZRMMQ6yN5rr7Y5BCEFY868v6/720.png" alt="d3d3LmVraW5oZG9hbmguY29t" align="right"/>
     Another example of how different they can be and still so relatable. Influeced by 0 cookies and 15326 bytes this one ends up with 5 lines, 2 ellipses, and 0 characters.
 <p>
 <br clear="all"/>
@@ -182,7 +182,7 @@ Once officially minted, some will be selected and analayzed to describe how meta
 
 ### name: c3dpbXdlaWdodHMuY29t
 <p>
-    <img style="width:500px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmUxkqmHAWpL8ywNfKZfQtgfziz4JxvxVhcXGe1Vkc2mpW/720.png" alt="c3dpbXdlaWdodHMuY29t" align="right"/>
+    <img style="width:500px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmUxkqmHAWpL8ywNfKZfQtgfziz4JxvxVhcXGe1Vkc2mpW/720.png" alt="c3dpbXdlaWdodHMuY29t" align="right"/>
     This is one came out with the freak ellipse which are the rows of ellipses. In this case it looks to have recieved the standard color key for these. Some with the freak ellipse will have a color key pulled from the foundational color palette. The ellipses here come together has a nice eyeball which is why I sometimes refer to it as the eye because there isn't a better name for it.
 <p>
 <br clear="all"/>
