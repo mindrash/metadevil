@@ -2,6 +2,8 @@
 Discovering interesting utility, patterns, and representations of metadata.
 
 ## hexadomain
+[Polygon contract:0x752CD43b36171A5C49fdBDF74574C6EdfF439e81](https://polygonscan.com/address/0x752cd43b36171a5c49fdbdf74574c6edff439e81) 
+
 This project is a combination of the mining of metadata combined with automated visualization. Each piece is contrived from only a vague understanding of a randomly chosen domain name and influenced by the metadata of that glimpse. It’s like looking at a beautiful creek to paint a picture or conversely the rotting corpse of roadkill. It is wonderful to see the beauty or weirdness of one next to the stoicism of another knowing what inspired it underneath. The name of each piece is the domain base64 encoded - you can decode if you are so inclined.
 
 - Will some pieces influenced by certain domains seem more worthwhile?
@@ -16,7 +18,7 @@ This project is a combination of the mining of metadata combined with automated 
 
 It was decided to base64 encode the domain as the title of each piece. You can decode if you are so inclined or directly view on the nft attributes.
 
-Examples:
+Examples: see below for some walk throughs on my thoughts on why some rendered the way they did
 ![metadevil](./docs/examples.png)
 
 ## the process
@@ -75,7 +77,7 @@ I spoke too soon ... there were many that could not produce because of "blank" v
 | freak_ellipse_count  | 33% chance (a grid of colored circles randomly influenced by palette) |
 | chars_number         | a unicode unknown char influenced by cookie count |
 
-Example
+Example meta.json generated
 ```json
 {
     "name": "d3d3LnBheXRlem9zLmNvbQ==",
@@ -129,6 +131,13 @@ Example
     ]
 }
 ```
+
+## technologies 
+- Python - for instance creation including metadata and image rendering
+- IPFS - for this project off chain is best
+- Hardhat - wrestled with truffle and brownie on some things and hardhat won
+- Node - for contract and minting
+- Polygon - wanted to go side chain for cost considerations, but not sold that this was the best idea
 
 ## final analysis
 Once officially minted, some will be selected and analayzed to describe how metadevil arrived at the final piece based on the domain metadata.
