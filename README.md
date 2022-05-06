@@ -189,7 +189,7 @@ Example meta.json generated
 ---
 
 <p>
-    <img style="width:400px;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmUxkqmHAWpL8ywNfKZfQtgfziz4JxvxVhcXGe1Vkc2mpW/720.png" alt="c3dpbXdlaWdodHMuY29t" align="right"/>
+    <img style="width:35%;padding:20px;" src="https://img.tofunft.com/image/https%3A%2F%2Fimg.tofunft.com%2Fipfs%2FQmUxkqmHAWpL8ywNfKZfQtgfziz4JxvxVhcXGe1Vkc2mpW/720.png" alt="c3dpbXdlaWdodHMuY29t" align="right"/>
     This is one came out with the freak ellipse which are the rows of ellipses. In this case it looks to have recieved the standard color key for these. Some with the freak ellipse will have a color key pulled from the foundational color palette. The ellipses here come together has a nice eyeball which is why I sometimes refer to it as the eye because there isn't a better name for it.
 </p>
 <br clear="all"/>
