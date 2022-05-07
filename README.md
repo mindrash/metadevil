@@ -143,7 +143,7 @@ Example meta.json generated
 ## technologies 
 - Python - for instance creation including metadata and image rendering
 - IPFS - for this project off chain is best. These were pinned with Pinata.
-- Alchemy - api
+- Alchemy - chain api
 - Hardhat - wrestled with truffle and brownie on some things and hardhat won
 - Node - for contract and minting
 - Polygon - wanted to go side chain for cost considerations, but not sold that this was the best idea
