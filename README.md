@@ -18,6 +18,8 @@ This project is a combination of the mining of metadata combined with automated 
 
 It was decided to base64 encode the domain as the title of each piece. You can decode if you are so inclined or directly view on the nft attributes.
 
+Contract: 0x752cd43b36171a5c49fdbdf74574c6edff439e81
+
 ## listed on
 - [Rarible](https://rarible.com/metadevil-io/items)
 - [Element](https://www.element.market/collections/metadevil-io)
