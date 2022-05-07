@@ -23,7 +23,7 @@ It was decided to base64 encode the domain as the title of each piece. You can d
 - [Element](https://www.element.market/collections/metadevil-io)
 - [tofuNFT](https://tofunft.com/nft/polygon/0x752CD43b36171A5C49fdBDF74574C6EdfF439e81/7)
 
-## Examples: 
+## examples 
 See below for some walk throughs on my thoughts on why some rendered the way they did
 
 ![metadevil](./docs/examples.png)
