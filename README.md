@@ -80,8 +80,9 @@ I spoke too soon ... there were many that could not produce because of "blank" v
 | domain               | 49,991 apex domains randomly selected from the superset of domains |
 | cookies              | The number of cookies found on the HTTP response. Influences number of chars and if > 10 adds extra line |
 | response_total_bytes | The total bytes of the response. Influences line number and width         |
+| lines                | line count influence and width influenced by bytes. color influenced by palette
 | ellipse_count        | 5 total possible. likelihood of 4: 10% 5: 1% |
-| freak_ellipse_count  | 33% chance (a grid of colored circles randomly influenced by palette) |
+| freak_ellipse_count  | 33% chance (a grid of colored circles randomly influenced by palette). color influenced by palette |
 | chars_number         | a unicode unknown char influenced by cookie count |
 
 Example meta.json generated
