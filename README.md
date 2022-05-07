@@ -206,10 +206,7 @@ Example meta.json generated
 
 [Polyscan](https://polygonscan.com/address/0x752cd43b36171a5c49fdbdf74574c6edff439e81) | 
 [Discord](https://discord.gg/HWnrVSBC) | 
-[Twitter](https://twitter.com/mindrash)
-
-<br clear="all"/>
-
+[Twitter](https://twitter.com/mindrash) | 
 [Rarible](https://rarible.com/metadevil-io/items) | 
 [Element](https://www.element.market/collections/metadevil-io) | 
 [tofuNFT](https://tofunft.com/nft/polygon/0x752CD43b36171A5C49fdBDF74574C6EdfF439e81/7)
