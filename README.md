@@ -7,6 +7,7 @@
 [itsmookie.com](https://itsmookie.com)
  
 # metadevil.io
+
 This project is a combination of the mining of metadata combined with automated visualization. Each piece is contrived from only a vague understanding of a randomly chosen domain name and influenced by the metadata of that glimpse. It’s like looking at a beautiful creek to paint a picture or conversely the rotting corpse of roadkill. It is wonderful to see the beauty or weirdness of one next to the stoicism of another knowing what inspired it underneath. The name of each piece is the domain base64 encoded - you can decode if you are so inclined.
 
 - Will some pieces influenced by certain domains seem more worthwhile?
@@ -209,6 +210,7 @@ Example meta.json generated
 [Discord](https://discord.gg/HWnrVSBC) | 
 [Twitter](https://twitter.com/mindrash) | 
 [Rarible](https://rarible.com/metadevil-io/items) | 
-[Element](https://www.element.market/collections/metadevil-io) | 
-[tofuNFT](https://tofunft.com/nft/polygon/0x752CD43b36171A5C49fdBDF74574C6EdfF439e81/7)
+[PEBKAC.fyi](https://pebkac.fyi) | 
+[itsmookie.com](https://itsmookie.com)
+
 
