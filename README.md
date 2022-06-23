@@ -6,7 +6,7 @@
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi) | 
 [itsmookie.com](https://itsmookie.com) |
-[itsmookie.com](https://incarceracism.com)
+[incarceracism](https://incarceracism.com)
  
 # metadevil.io
 
@@ -215,5 +215,6 @@ Example meta.json generated
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi) | 
 [itsmookie.com](https://itsmookie.com) |
-[itsmookie.com](https://incarceracism.com)
+[incarceracism](https://incarceracism.com)
+
 
