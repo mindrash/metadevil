@@ -4,7 +4,8 @@
 [Twitter](https://twitter.com/mindrash) | 
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi) | 
-[itsmookie.com](https://itsmookie.com)
+[itsmookie.com](https://itsmookie.com) |
+[itsmookie.com](https://incarceracism.com)
  
 # metadevil.io
 
@@ -210,7 +211,8 @@ Example meta.json generated
 [Discord](https://discord.gg/HWnrVSBC) | 
 [Twitter](https://twitter.com/mindrash) | 
 [Rarible](https://rarible.com/metadevil-io/items) | 
-[PEBKAC.fyi](https://pebkac.fyi) | 
-[itsmookie.com](https://itsmookie.com)
-
+[metadevil.io](https://metadevil.io) | 
+[pebkac.fyi](https://pebkac.fyi) | 
+[itsmookie.com](https://itsmookie.com) |
+[itsmookie.com](https://incarceracism.com)
 
