@@ -1,4 +1,5 @@
-![metadevil](./docs/1400x400.png)
+![metadevil](./docs/1440x400.png)
+
 [Polyscan](https://polygonscan.com/address/0x752cd43b36171a5c49fdbdf74574c6edff439e81) | 
 [Discord](https://discord.gg/HWnrVSBC) | 
 [Twitter](https://twitter.com/mindrash) | 
